@@ -8,11 +8,14 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 ---
 
 ## Publications
-#### Workshops
+### Workshops
 
 * Pedro Henrique Martins, Zita Marinho and André F. T. Martins. 2019. [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026). In Proc. ACL Student Research Workshop.
 
 ---
+## Teaching
+*[LxMLS 2019](http://lxmls.it.pt/2019/) Monitor
+ I was a monitor on the Lisbon Machine Learning School of 2019. I was responsible for helping out in the day-to-day organization of the school and for answering questions and helping out students during the lab sessions.
 
 
 
