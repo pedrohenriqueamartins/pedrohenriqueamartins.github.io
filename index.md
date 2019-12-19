@@ -14,7 +14,7 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 
 ---
 ## Teaching
-* [LxMLS 2019](http://lxmls.it.pt/2019/) Monitor
+* [LxMLS 2019](http://lxmls.it.pt/2019/) Monitor<br />
  I was a monitor on the Lisbon Machine Learning School of 2019. I was responsible for helping out in the day-to-day organization of the school and for answering questions and helping out students during the lab sessions.
 
 
