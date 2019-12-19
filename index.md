@@ -8,7 +8,7 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 ---
 
 ## Publications
-### Workshops
+#### Workshops
 
 * Pedro Henrique Martins, Zita Marinho and André F. T. Martins. 2019. [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026). In Proc. ACL Student Research Workshop.
 
