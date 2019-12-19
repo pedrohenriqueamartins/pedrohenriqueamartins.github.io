@@ -1,19 +1,9 @@
-## Portfolio
+## About me 
 
----
+I'm a Machine Learning and NLP PhD student at Instituto Superior Técnico, University of Lisbon. I'm also a researcher at Instituto de Telecomunicações. My advisors are [Prof. André Martins](https://andre-martins.github.io/) and [Prof. Zita Marinho](https://www.cs.cmu.edu/~zmarinho/).
 
-### Category Name 1 
+I'm very enthusiastic about Machine Learning and Natural Language Processing, being my main research interests Natural Language Generation and Deep Generative Models.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
