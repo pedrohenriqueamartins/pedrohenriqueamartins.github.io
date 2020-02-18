@@ -19,7 +19,7 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 
 ---
 ## Talks
-* Priberam ML Seminar - Sparse and Structured Visual Attention
+* Priberam ML Seminar (18/02/2020) - Sparse and Structured Visual Attention
 
 
 
