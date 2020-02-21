@@ -8,9 +8,11 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 ---
 
 ## Publications
-* Pedro Henrique Martins, Vlad Niculae, Zita Marinho and André F. T. Martins. 2020. [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556). arXiv preprint arXiv:2002.05556.
+* Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins. 2020. [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556). arXiv preprint arXiv:2002.05556.
 
-* Pedro Henrique Martins, Zita Marinho and André F. T. Martins. 2019. [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026). In Proc. ACL Student Research Workshop.
+* Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. 2019. [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026). In Proc. ACL Student Research Workshop.
+
+* Pedro Henrique Martins, Luis Custódio, and Rodrigo Ventura. 2018. [A deep learning approach for understanding natural language commands for mobile service robots](https://arxiv.org/abs/1807.03053). arXiv preprint arXiv:1807.03053
 
 ---
 ## Teaching
