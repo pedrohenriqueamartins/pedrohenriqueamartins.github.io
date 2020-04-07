@@ -8,6 +8,9 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 ---
 
 ## Publications
+
+* Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. 2020. [Sparse Text Generation](https://arxiv.org/pdf/2004.02644.pdf). arXiv preprint arXiv:2004.02644.
+
 * Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins. 2020. [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556). arXiv preprint arXiv:2002.05556.
 
 * Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. 2019. [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026). In Proc. ACL Student Research Workshop.
