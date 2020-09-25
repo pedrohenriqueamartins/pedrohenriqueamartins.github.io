@@ -2,26 +2,26 @@
 
 I'm a Machine Learning and NLP PhD student at Instituto Superior Técnico, University of Lisbon. I'm also a researcher at Instituto de Telecomunicações. My advisors are [Prof. André Martins](https://andre-martins.github.io/) and [Prof. Zita Marinho](https://www.cs.cmu.edu/~zmarinho/).
 
-I'm very enthusiastic about Machine Learning and Natural Language Processing, being my main research interests Natural Language Generation and Deep Latent Variable Models.
+I'm very enthusiastic about Machine Learning and Natural Language Processing. My main research interests are Natural Language Generation, Language Modelling, and Deep Latent Variable Models.
 
 
 ---
 
 ## Publications
 
-* [**Sparse Text Generation**](https://arxiv.org/pdf/2004.02644.pdf)<br/>
+* [Sparse Text Generation](https://arxiv.org/pdf/2004.02644.pdf)<br/>
   Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. <br/>
   EMNLP 2020 (To appear).
 
-* [**Sparse and Structured Visual Attention**](https://arxiv.org/abs/2002.05556)<br/>
+* [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556)<br/>
   Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins.<br/>
   Preprint. 2020.
 
-* [**Joint Learning of Named Entity Recognition and Entity Linking**](https://www.aclweb.org/anthology/P19-2026)<br/>
+* [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026)<br/>
   Pedro Henrique Martins, Zita Marinho, and André F. T. Martins.<br/>
   ACL Student Research Workshop 2019.
 
-* [**A deep learning approach for understanding natural language commands for mobile service robots**](https://arxiv.org/abs/1807.03053).<br/>
+* [A deep learning approach for understanding natural language commands for mobile service robots](https://arxiv.org/abs/1807.03053).<br/>
   Pedro Henrique Martins, Luis Custódio, and Rodrigo Ventura.<br/>
   Preprint. 2018.
 
