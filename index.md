@@ -9,19 +9,20 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing, be
 
 ## Publications
 
-* [**Sparse Text Generation**](https://arxiv.org/pdf/2004.02644.pdf)
-  Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. 
+* [**Sparse Text Generation**](https://arxiv.org/pdf/2004.02644.pdf)<br/>
+  Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. <br/>
   EMNLP 2020 (To appear).
 
-* [**Sparse and Structured Visual Attention**](https://arxiv.org/abs/2002.05556)
+* [**Sparse and Structured Visual Attention**](https://arxiv.org/abs/2002.05556)<br/>
+  Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins.<br/>
   Preprint. 2020.
 
-* [**Joint Learning of Named Entity Recognition and Entity Linking**](https://www.aclweb.org/anthology/P19-2026)
-  Pedro Henrique Martins, Zita Marinho, and André F. T. Martins.
+* [**Joint Learning of Named Entity Recognition and Entity Linking**](https://www.aclweb.org/anthology/P19-2026)<br/>
+  Pedro Henrique Martins, Zita Marinho, and André F. T. Martins.<br/>
   ACL Student Research Workshop 2019.
 
-* [**A deep learning approach for understanding natural language commands for mobile service robots**](https://arxiv.org/abs/1807.03053).
-  Pedro Henrique Martins, Luis Custódio, and Rodrigo Ventura.
+* [**A deep learning approach for understanding natural language commands for mobile service robots**](https://arxiv.org/abs/1807.03053).<br/>
+  Pedro Henrique Martins, Luis Custódio, and Rodrigo Ventura.<br/>
   Preprint. 2018.
 
 ---
