@@ -1,6 +1,6 @@
 ## About me 
 
-I'm a Machine Learning and NLP PhD student at Instituto Superior Técnico, University of Lisbon. I'm also a researcher at Instituto de Telecomunicações. My advisors are [Prof. André Martins](https://andre-martins.github.io/) and [Prof. Zita Marinho](https://www.cs.cmu.edu/~zmarinho/).
+I'm a Machine Learning and NLP PhD student at Instituto Superior Técnico, University of Lisbon. My advisors are [Prof. André Martins](https://andre-martins.github.io/) and [Prof. Zita Marinho](https://www.cs.cmu.edu/~zmarinho/).
 
 I'm very enthusiastic about Machine Learning and Natural Language Processing. My main research interests are Natural Language Generation, Language Modelling, and Deep Latent Variable Models.
 
