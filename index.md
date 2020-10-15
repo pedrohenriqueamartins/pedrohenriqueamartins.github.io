@@ -11,7 +11,7 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing. My
 
 * [Sparse Text Generation](https://arxiv.org/pdf/2004.02644.pdf)<br/>
   Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. <br/>
-  EMNLP 2020 (To appear).
+  EMNLP 2020.
 
 * [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556)<br/>
   Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins.<br/>
