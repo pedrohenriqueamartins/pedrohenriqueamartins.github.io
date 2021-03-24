@@ -9,6 +9,9 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing. My
 
 ## Publications
 
+* [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics](https://arxiv.org/abs/2102.01672)<br/>
+  Preprint. 2021.
+    
 * [Sparse Text Generation](https://arxiv.org/pdf/2004.02644.pdf)<br/>
   Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. <br/>
   EMNLP 2020.
