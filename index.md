@@ -9,16 +9,16 @@ I'm very enthusiastic about Machine Learning and Natural Language Processing. My
 
 ## Publications
 
+* [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556)<br/>
+  Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins.<br/>
+  ICIP 2021.
+
 * [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics](https://arxiv.org/abs/2102.01672)<br/>
   Preprint. 2021.
     
 * [Sparse Text Generation](https://arxiv.org/abs/2004.02644)<br/>
   Pedro Henrique Martins, Zita Marinho, and André F. T. Martins. <br/>
   EMNLP 2020.
-
-* [Sparse and Structured Visual Attention](https://arxiv.org/abs/2002.05556)<br/>
-  Pedro Henrique Martins, Vlad Niculae, Zita Marinho, and André F. T. Martins.<br/>
-  Preprint. 2020.
 
 * [Joint Learning of Named Entity Recognition and Entity Linking](https://www.aclweb.org/anthology/P19-2026)<br/>
   Pedro Henrique Martins, Zita Marinho, and André F. T. Martins.<br/>
